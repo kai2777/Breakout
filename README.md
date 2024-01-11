@@ -18,19 +18,19 @@
 
 #### 程式模組說明:<br>
 module final_1(input CLK,
-					 input sw_L,
-					 input sw_R,
-					 input shoot,
-					 input pause,
+					 input sw_L, //左控制
+					 input sw_R, //右控制
+					 input shoot, //發射
+					 input pause, //暫停
 					 input [3:0] back,    //背景變化
 					 output [7:0] lightR,
 					 output [7:0] lightG,
 					 output [7:0] lightB,
 					 output reg [2:0] whichCol,  //控制亮哪排
 					 output EN,
-					 output reg[7:0] win,  //亮燈血槽
-                output reg beep,//音樂區
-					 output reg a,b,c,d,e,f,g //得分
+					 output reg[7:0] win,  //分數
+                                         output reg beep,//音樂
+					 output reg a,b,c,d,e,f,g //生命
 );
 
 #### 請說明各 I/O 變數接到哪個 FPGA I/O 裝置，例如: button, button2 -> 接到 4-bit SW <br>
@@ -42,6 +42,7 @@ input [3:0] back -> 接到 8 dipsw (紅)
 
 output [7:0] lightR,output [7:0] lightG,output [7:0] lightB -> 接到 8x8 LED 矩陣
 遊戲畫面
+
 output reg [2:0] whichCol, output EN-> 接到 8x8 LED 矩陣
 控制燈亮
 
