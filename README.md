@@ -9,7 +9,6 @@
 <img src="https://github.com/kai2777/Breakout/blob/master/image/Screenshot_20240111_223408_Gallery.jpg" width="300"/><br>
 * 8 dipsw，紅色1234代表各關卡。<br>
   <img src="https://github.com/kai2777/Breakout/blob/master/image/IMG_2357.jpg" width="300"/><br>
-  https://github.com/kai2777/Breakout/blob/master/image/IMG_2357.jpg
 #### 功能說明:<br>
 紅在選擇完不同的關卡之後，按下發射鍵即可開始遊玩。
 透過4BITS SW按鍵左右移動板子去反彈發射的球來擊破磚塊。
@@ -56,4 +55,4 @@ output reg beep -> 蜂鳴器
 播放音樂(小蜜蜂)
 #### Demo video:
 
-<a href="https://drive.google.com/file/d/14E_wsB2Xj6BRjAoWndypQ4MNN204yvR6/view?usp=sharing" title="Demo Video"><img src="https://github.com/kai2777/Breakout/blob/master/image/Screenshot_20240111_235918_Gallery.jpg" alt="Demo Video" width="500"/></a>
+<a href="https://drive.google.com/file/d/14E_wsB2Xj6BRjAoWndypQ4MNN204yvR6/view?usp=sharing" title="Demo Video"><img src="https://github.com/kai2777/Breakout/blob/master/image/Screenshot_20240111_235918_Gallery.jpg" alt="Demo Video" width="300"/></a>
