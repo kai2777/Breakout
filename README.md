@@ -5,10 +5,8 @@
 #### Input/Output unit:<br>
 * 8x8 LED 矩陣，用來顯示遊戲畫面。<br>
 <img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO1.jpg" width="300"/><br>
-* 七段顯示器，用來計分。<br>
+* 七段顯示器，用來計分。LED 陣列，用來顯示生命。<br>
 <img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO2.jpg" width="300"/><br>
-* LED 陣列，用來顯示生命。<br>
-<img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO3.jpg" width="300"/><br>
 * 8 dipsw，紅色1234代表各關卡。
   
 #### 功能說明:<br>
