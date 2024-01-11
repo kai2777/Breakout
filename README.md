@@ -56,4 +56,4 @@ output reg beep -> 蜂鳴器
 播放音樂(小蜜蜂)
 #### Demo video:
 
-<a href="https://drive.google.com/file/d/14E_wsB2Xj6BRjAoWndypQ4MNN204yvR6/view?usp=sharing" title="Demo Video"><img src="https://github.com/kamiry/FPGA-project-1/blob/master/images/IO4.jpg" alt="Demo Video" width="500"/></a>
+<a href="https://drive.google.com/file/d/14E_wsB2Xj6BRjAoWndypQ4MNN204yvR6/view?usp=sharing" title="Demo Video"><img src="https://github.com/kai2777/Breakout/blob/master/image/Screenshot_20240111_235918_Gallery.jpg" alt="Demo Video" width="500"/></a>
