@@ -1,6 +1,6 @@
 # FPGA-project
 # Breakout clone
-### Authors: 111321063 111321067 111321074
+### Authors: 111321063 111321067 111321073
 
 #### Input/Output unit:<br>
 * 8x8 LED 矩陣，用來顯示遊戲畫面。<br>
