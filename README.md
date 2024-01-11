@@ -8,7 +8,8 @@
 * 七段顯示器，用來計分。LED 陣列，用來顯示生命。<br>
 <img src="https://github.com/kai2777/Breakout/blob/master/image/Screenshot_20240111_223408_Gallery.jpg" width="300"/><br>
 * 8 dipsw，紅色1234代表各關卡。
-  
+  <img src="https://github.com/kai2777/Breakout/blob/master/image/IMG_2357.jpg" width="300"/><br>
+  https://github.com/kai2777/Breakout/blob/master/image/IMG_2357.jpg
 #### 功能說明:<br>
 紅在選擇完不同的關卡之後，按下發射鍵即可開始遊玩。
 透過4BITS SW按鍵左右移動板子去反彈發射的球來擊破磚塊。
